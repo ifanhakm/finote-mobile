@@ -152,4 +152,4 @@ Developed by [@ifanhakm](https://github.com/ifanhakm)
 
 ## 📄 License
 
-MIT License © 2025 – Finote
+GPL-3.0 License © 2025 – Finote
