@@ -1,4 +1,4 @@
-# Finote – Smart Financial Decision App
+# Finote: Your Smart Financial Decision App
 
 **Finote** is a smart and automated financial management mobile application designed to assist students, workers, and households in managing their expenses effectively. It utilizes a fuzzy logic-based decision support system (DSS) to analyze spending behavior and recommend budget strategies.
 ---
